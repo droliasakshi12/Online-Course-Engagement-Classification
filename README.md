@@ -50,7 +50,7 @@ Typical model training uses scikit-learn’s classification utilities.
 <p>Happy Coding 🐍✨</p></b>
 
 👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
-📩 Email   : droliasakshi601@gmail.com <br>
+📩 Email   : sakshidrolia12@gmail.com <br>
 🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
 <h4>Credits</h4>
 <b></b>Future Vision Computer Institute</b><BR>
